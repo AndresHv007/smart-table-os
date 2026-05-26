@@ -1,0 +1,498 @@
+[5/22/2026, 10:38:42 PM] Server listening on port 3001
+[5/22/2026, 10:38:43 PM] New connection: WIbJM1JmKEp-PFNWAAAB
+[5/22/2026, 10:38:43 PM] New connection: 74rebg6-FfG1u22bAAAD
+[5/22/2026, 10:40:29 PM] New connection: u2bC4_sfQ0rmld9gAAAF
+[5/22/2026, 10:40:42 PM] Disconnected: u2bC4_sfQ0rmld9gAAAF
+[5/22/2026, 10:41:07 PM] New connection: F4QwtJd0Vc0H2O_DAAAI
+[5/22/2026, 10:41:29 PM] Socket F4QwtJd0Vc0H2O_DAAAI is now the Host (Norte)
+[5/22/2026, 10:41:29 PM] Socket F4QwtJd0Vc0H2O_DAAAI joined as Norte
+[5/22/2026, 10:41:30 PM] Socket F4QwtJd0Vc0H2O_DAAAI (Norte) selected color red
+[5/22/2026, 10:41:36 PM] Preset Catan loaded by host.
+[5/22/2026, 10:41:41 PM] Game started with 1 players. First turn: Norte
+[5/22/2026, 10:41:44 PM] Game Finished! Winner: Norte with score 10
+[5/22/2026, 10:41:44 PM] Game result saved to database.
+[5/22/2026, 10:43:59 PM] Returned to LOBBY
+[5/22/2026, 10:46:34 PM] Disconnected: F4QwtJd0Vc0H2O_DAAAI
+[5/22/2026, 10:46:34 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 10:46:48 PM] New connection: Q_q8J1f1_x3HEmCKAAAK
+[5/22/2026, 10:46:48 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 10:46:48 PM] Session restored for Norte on socket Q_q8J1f1_x3HEmCKAAAK
+[5/22/2026, 10:49:41 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: []
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:43 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:47 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object], [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:51 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object], [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:52 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object], [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:53 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object], [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:53 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object], [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:49:54 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: {
+    enabled: true,
+    count: 2,
+    faces: 6,
+    allowOutOfTurn: false,
+    goldenEnabled: true,
+    goldenConditions: [ [Object], [Object] ]
+  },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'asc' }
+  }
+}
+[5/22/2026, 10:50:32 PM] Preset Catan loaded by host.
+[5/22/2026, 10:50:34 PM] Preset Prueba 2 loaded by host.
+[5/22/2026, 10:50:40 PM] Preset Catan loaded by host.
+[5/22/2026, 10:51:57 PM] Disconnected: Q_q8J1f1_x3HEmCKAAAK
+[5/22/2026, 10:51:57 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 10:55:49 PM] Disconnected: 74rebg6-FfG1u22bAAAD
+[5/22/2026, 10:55:49 PM] Disconnected: WIbJM1JmKEp-PFNWAAAB
+[5/22/2026, 10:55:49 PM] New connection: LcKCCY2xK4I7fW-WAAAP
+[5/22/2026, 10:55:49 PM] New connection: npcAWBTAJ7iX3KYXAAAQ
+[5/22/2026, 10:56:00 PM] New connection: eTTwoZmWYFdGIgIwAAAT
+[5/22/2026, 10:56:00 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 10:56:00 PM] Session restored for Norte on socket eTTwoZmWYFdGIgIwAAAT
+[5/22/2026, 10:56:19 PM] Socket eTTwoZmWYFdGIgIwAAAT (Norte) changed name to Corki
+[5/22/2026, 10:56:22 PM] Preset Dixit loaded by host.
+[5/22/2026, 10:56:50 PM] Game started with 1 players. First turn: Norte
+[5/22/2026, 10:57:01 PM] Game Finished! Winner: Norte with score 30
+[5/22/2026, 10:57:01 PM] Game result saved to database.
+[5/22/2026, 10:59:13 PM] Returned to LOBBY
+[5/22/2026, 11:01:38 PM] Disconnected: eTTwoZmWYFdGIgIwAAAT
+[5/22/2026, 11:01:38 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:01:38 PM] New connection: tDciJp8LkGvTr_N7AAAW
+[5/22/2026, 11:01:38 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:01:38 PM] Session restored for Norte on socket tDciJp8LkGvTr_N7AAAW
+[5/22/2026, 11:01:41 PM] Preset Monopoly loaded by host.
+[5/22/2026, 11:01:52 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: { enabled: true, count: 2, faces: 6, allowOutOfTurn: false },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {}
+  }
+}
+[5/22/2026, 11:01:56 PM] Game started with 1 players. First turn: Norte
+[5/22/2026, 11:01:58 PM] Returned to LOBBY
+[5/22/2026, 11:02:03 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: false,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: { enabled: true, count: 2, faces: 6, allowOutOfTurn: false },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'above' }
+  }
+}
+[5/22/2026, 11:02:15 PM] Game started with 1 players. First turn: Norte
+[5/22/2026, 11:02:19 PM] Game Finished! Winner: Norte with score 10
+[5/22/2026, 11:02:19 PM] Game result saved to database.
+[5/22/2026, 11:02:31 PM] Returned to LOBBY
+[5/22/2026, 11:02:38 PM] Modules updated by host: {
+  turns: {
+    enabled: true,
+    orderType: 'clockwise',
+    customOrder: [],
+    countRounds: false,
+    autoRound: false,
+    maxRounds: 0
+  },
+  timer: {
+    enabled: true,
+    type: 'turn',
+    seconds: 60,
+    autoStart: false,
+    autoPass: false,
+    allowPlayerControls: true
+  },
+  dice: { enabled: true, count: 2, faces: 6, allowOutOfTurn: false },
+  score: {
+    enabled: true,
+    mode: 'individual',
+    winCondition: 'highest',
+    teams: {},
+    endCondition: { type: 'points', value: 10, direction: 'above' }
+  }
+}
+[5/22/2026, 11:02:41 PM] Game started with 1 players. First turn: Norte
+[5/22/2026, 11:02:44 PM] Game Finished! Winner: Norte with score 10
+[5/22/2026, 11:02:44 PM] Game result saved to database.
+[5/22/2026, 11:03:17 PM] Returned to LOBBY
+[5/22/2026, 11:04:47 PM] Disconnected: tDciJp8LkGvTr_N7AAAW
+[5/22/2026, 11:04:47 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:05:47 PM] New connection: tYZ7NEgJ4JporJ_0AAAZ
+[5/22/2026, 11:05:47 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:05:47 PM] Session restored for Norte on socket tYZ7NEgJ4JporJ_0AAAZ
+[5/22/2026, 11:05:54 PM] Disconnected: tYZ7NEgJ4JporJ_0AAAZ
+[5/22/2026, 11:05:54 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:05:54 PM] New connection: DEXq0jmhF2J2EPUPAAAc
+[5/22/2026, 11:05:54 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:05:54 PM] Session restored for Norte on socket DEXq0jmhF2J2EPUPAAAc
+[5/22/2026, 11:08:23 PM] Disconnected: DEXq0jmhF2J2EPUPAAAc
+[5/22/2026, 11:08:23 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:13:23 PM] No players left, host is null.
+[5/22/2026, 11:13:23 PM] Session expired and freed for Norte
+[5/22/2026, 11:15:07 PM] New connection: DKdWg3r7mQTfPGTwAAAf
+[5/22/2026, 11:15:15 PM] Disconnected: DKdWg3r7mQTfPGTwAAAf
+[5/22/2026, 11:19:01 PM] New connection: wKuNw_SC174jsbHjAAAi
+[5/22/2026, 11:19:08 PM] Disconnected: wKuNw_SC174jsbHjAAAi
+[5/22/2026, 11:19:17 PM] New connection: -iaAt442jP6LrHH0AAAk
+[5/22/2026, 11:19:20 PM] Disconnected: -iaAt442jP6LrHH0AAAk
+[5/22/2026, 11:19:20 PM] New connection: yVUf77nr-BQUZ9-PAAAn
+[5/22/2026, 11:19:22 PM] Disconnected: yVUf77nr-BQUZ9-PAAAn
+[5/22/2026, 11:20:36 PM] New connection: SwaPAA1T5hkHwZtyAAAq
+[5/22/2026, 11:20:53 PM] Disconnected: SwaPAA1T5hkHwZtyAAAq
+[5/22/2026, 11:24:32 PM] Disconnected: npcAWBTAJ7iX3KYXAAAQ
+[5/22/2026, 11:24:32 PM] Disconnected: LcKCCY2xK4I7fW-WAAAP
+[5/22/2026, 11:32:38 PM] New connection: AKPzbvYk2594RVGrAAAv
+[5/22/2026, 11:32:38 PM] New connection: FZqlbugDIzqlRHTRAAAw
+[5/22/2026, 11:33:44 PM] New connection: aJ-6D9E86Kt5P7azAAAz
+[5/22/2026, 11:33:47 PM] Socket aJ-6D9E86Kt5P7azAAAz is now the Host (Norte)
+[5/22/2026, 11:33:47 PM] Socket aJ-6D9E86Kt5P7azAAAz joined as Norte
+[5/22/2026, 11:33:54 PM] Socket aJ-6D9E86Kt5P7azAAAz (Norte) selected color red
+[5/22/2026, 11:33:54 PM] Disconnected: aJ-6D9E86Kt5P7azAAAz
+[5/22/2026, 11:33:54 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:34:08 PM] New connection: aggSKnVBqsti4M_kAAA2
+[5/22/2026, 11:34:08 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:34:08 PM] Session restored for Norte on socket aggSKnVBqsti4M_kAAA2
+[5/22/2026, 11:34:08 PM] Disconnected: aggSKnVBqsti4M_kAAA2
+[5/22/2026, 11:34:08 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:34:17 PM] New connection: ZULpCuAFNCFgw3ykAAA5
+[5/22/2026, 11:34:20 PM] Socket ZULpCuAFNCFgw3ykAAA5 joined as Sur
+[5/22/2026, 11:34:22 PM] Socket ZULpCuAFNCFgw3ykAAA5 (Sur) selected color blue
+[5/22/2026, 11:34:30 PM] New connection: r8gk5h32OowejLZHAAA8
+[5/22/2026, 11:34:30 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:34:30 PM] Session restored for Norte on socket r8gk5h32OowejLZHAAA8
+[5/22/2026, 11:34:30 PM] Disconnected: r8gk5h32OowejLZHAAA8
+[5/22/2026, 11:34:30 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:35:53 PM] Disconnected: ZULpCuAFNCFgw3ykAAA5
+[5/22/2026, 11:35:53 PM] Starting 5 min timeout for role: Sur
+[5/22/2026, 11:35:57 PM] New connection: pFbMJMiu10pB3x31AAA_
+[5/22/2026, 11:35:57 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:35:57 PM] Session restored for Norte on socket pFbMJMiu10pB3x31AAA_
+[5/22/2026, 11:35:57 PM] Disconnected: pFbMJMiu10pB3x31AAA_
+[5/22/2026, 11:35:57 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:36:36 PM] New connection: QT1b6B1Pwlc2njGgAABB
+[5/22/2026, 11:36:36 PM] Timeout cleared for session lkjf0v1e0wk
+[5/22/2026, 11:36:36 PM] Session restored for Sur on socket QT1b6B1Pwlc2njGgAABB
+[5/22/2026, 11:36:45 PM] New connection: Ic6at5oTVF4c92wLAABE
+[5/22/2026, 11:36:45 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:36:45 PM] Session restored for Norte on socket Ic6at5oTVF4c92wLAABE
+[5/22/2026, 11:36:45 PM] Disconnected: Ic6at5oTVF4c92wLAABE
+[5/22/2026, 11:36:45 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:38:11 PM] Disconnected: QT1b6B1Pwlc2njGgAABB
+[5/22/2026, 11:38:11 PM] Starting 5 min timeout for role: Sur
+[5/22/2026, 11:38:13 PM] Disconnected: FZqlbugDIzqlRHTRAAAw
+[5/22/2026, 11:38:13 PM] Disconnected: AKPzbvYk2594RVGrAAAv
+[5/22/2026, 11:38:13 PM] New connection: NYzn1rq6LLrBUMjdAABJ
+[5/22/2026, 11:38:13 PM] New connection: OWd5jvMKJGkXByUNAABK
+[5/22/2026, 11:38:13 PM] New connection: bucLODLjYOoSrsbVAABN
+[5/22/2026, 11:38:13 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:38:13 PM] Session restored for Norte on socket bucLODLjYOoSrsbVAABN
+[5/22/2026, 11:38:13 PM] Disconnected: bucLODLjYOoSrsbVAABN
+[5/22/2026, 11:38:13 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:38:26 PM] New connection: MUhbgUhs1y9LtNBbAABQ
+[5/22/2026, 11:38:26 PM] Timeout cleared for session lkjf0v1e0wk
+[5/22/2026, 11:38:26 PM] Session restored for Sur on socket MUhbgUhs1y9LtNBbAABQ
+[5/22/2026, 11:38:39 PM] New connection: MoKwHQCz9a68SPWIAABT
+[5/22/2026, 11:38:39 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:38:39 PM] Session restored for Norte on socket MoKwHQCz9a68SPWIAABT
+[5/22/2026, 11:38:39 PM] Disconnected: MoKwHQCz9a68SPWIAABT
+[5/22/2026, 11:38:39 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:38:43 PM] New connection: hhoq2d-klsjeYDxJAABW
+[5/22/2026, 11:38:43 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:38:43 PM] Session restored for Norte on socket hhoq2d-klsjeYDxJAABW
+[5/22/2026, 11:38:43 PM] Disconnected: hhoq2d-klsjeYDxJAABW
+[5/22/2026, 11:38:43 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:38:45 PM] New connection: eKttUU85KeVQGPkcAABZ
+[5/22/2026, 11:38:45 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:38:45 PM] Session restored for Norte on socket eKttUU85KeVQGPkcAABZ
+[5/22/2026, 11:38:45 PM] Disconnected: eKttUU85KeVQGPkcAABZ
+[5/22/2026, 11:38:45 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:38:53 PM] New connection: kyQGQylaY7NoKUNbAABc
+[5/22/2026, 11:38:53 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:38:53 PM] Session restored for Norte on socket kyQGQylaY7NoKUNbAABc
+[5/22/2026, 11:38:53 PM] Disconnected: kyQGQylaY7NoKUNbAABc
+[5/22/2026, 11:38:53 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:40:01 PM] Disconnected: MUhbgUhs1y9LtNBbAABQ
+[5/22/2026, 11:40:01 PM] Starting 5 min timeout for role: Sur
+[5/22/2026, 11:43:18 PM] New connection: ZKt0r0AIQcvWqJZNAABf
+[5/22/2026, 11:43:18 PM] Timeout cleared for session nkni02s6xbg
+[5/22/2026, 11:43:18 PM] Session restored for Norte on socket ZKt0r0AIQcvWqJZNAABf
+[5/22/2026, 11:44:00 PM] Disconnected: ZKt0r0AIQcvWqJZNAABf
+[5/22/2026, 11:44:00 PM] Starting 5 min timeout for role: Norte
+[5/22/2026, 11:45:01 PM] Session expired and freed for Sur
