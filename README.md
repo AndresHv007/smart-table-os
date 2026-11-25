@@ -23,8 +23,7 @@ Plataforma interactiva en tiempo real para mesas de juegos de mesa físicos (**p
   - Frontend: `https://smarttable-web-prod-andreshu.azurewebsites.net`
   - Backend: `https://smarttable-api-prod-andreshu.azurewebsites.net`
 
-## Documentación (Wiki)
-- [Inicio](wiki/Home.md)
-- [Arquitectura, Componentes y Stack Tecnológico](wiki/Arquitectura-y-Componentes.md)
-- [Infraestructura Azure y Diagrama de Deployment](wiki/Infraestructura-y-Deployment.md)
-- [Estrategia de Ramas y Plan de Trabajo](wiki/Estrategia-de-Ramas-y-Backlog.md)
+## Documentación y Tablero
+- **Tablero Kanban (GitHub Projects):** https://github.com/users/AndresHv007/projects/1
+- **Wiki del Proyecto:** https://github.com/AndresHv007/smart-table-os/wiki
+- Espejo local en Markdown: [Inicio](wiki/Home.md) · [Arquitectura](wiki/Arquitectura-y-Componentes.md) · [Infraestructura y Deployment](wiki/Infraestructura-y-Deployment.md) · [Ramas y Backlog](wiki/Estrategia-de-Ramas-y-Backlog.md)
