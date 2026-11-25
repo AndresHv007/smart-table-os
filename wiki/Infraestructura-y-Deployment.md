@@ -4,7 +4,7 @@
 
 Todo el aprovisionamiento vive en el repositorio de infraestructura (`smart-table-os-infra`) usando un módulo reutilizable (`modules/environment`) instanciado para **Dev** y **Prod**:
 
-- **Resource Group:** `rg-smarttable-os` (`eastus2`)
+- **Resource Group:** `rg-smarttable-os` (`mexicocentral`)
 - **Ambiente Dev:**
   - App Service Plan Linux `B1`: `asp-smarttable-dev-andreshu`
   - Web App Backend: `https://smarttable-api-dev-andreshu.azurewebsites.net`
@@ -82,3 +82,10 @@ flowchart LR
     - `CPU Percentage`
     - `Memory Percentage`
     - `Requests` (en cada Web App)
+
+## 5. Entorno Local con Docker Compose (`smart-table-os-infra`)
+
+Además de la nube en Azure, `smart-table-os-infra` incluye un `docker-compose.yml` validado automáticamente en GitHub Actions (`docker compose config -q`) que levanta ambos servicios desde Docker Hub:
+
+- **Backend local:** `http://localhost:3001/health` (con volumen Docker persistente `smarttable_data` para SQLite y healthcheck nativo).
+- **Frontend local:** `http://localhost:5173` (espera a que el backend pase a `service_healthy` e inyecta `API_URL=http://localhost:3001` en arranque).
